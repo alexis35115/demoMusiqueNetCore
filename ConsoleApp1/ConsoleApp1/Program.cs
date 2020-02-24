@@ -12,7 +12,7 @@ namespace ConsoleApp1
 
             lecteurMusique.Jouer("barbareintro.wav");
 
-            Console.WriteLine("pewpew");
+            Console.WriteLine("pewpewpewpew");
 
             Console.ReadKey();
         }
